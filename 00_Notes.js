@@ -1,0 +1,2 @@
+// Chahe hum vite se kaam kare ya create react app se kaam kare ye ek convention hai ki jo functions hum component karte hain unka naam capitalise ho
+// File ka naam bhi capital rakhna is a good practice
